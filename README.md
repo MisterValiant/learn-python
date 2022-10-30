@@ -10,7 +10,7 @@
 > This repository contains Python exercises and solutions that can be used to master the programming language from 'Zero' to 'Hero' 🦸
 
 >Tutorial from Programming with Mosh:
-[https://www.youtube.com/watch?v=_uQrJ0TkZlc](https://www.youtube.com/watch?v=_uQrJ0TkZlc "title")
+[https://www.youtube.com/watch?v=_uQrJ0TkZlc](https://www.youtube.com/watch?v=_uQrJ0TkZlc "tutorial")
 
 <br/>
 
